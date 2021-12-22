@@ -118,6 +118,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
        var options = {
          title: "Number of tweets",
          height: 350,
+         calendar: { cellSize: 10 }
        };
 
        chart.draw(dataTable, options);
