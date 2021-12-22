@@ -125,6 +125,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
     </script>
   </head>
   <body>
-    <div id="calendar_basic" style="width: 1000px; height: 350px;"></div>
+    <div id="calendar_basic" style="width: 500px; height: 350px;"></div>
   </body>
 </html>
